@@ -1,5 +1,5 @@
 # patika_insertion_sort
-www.patika.dev
+[Patika.dev](https://www.patika.dev/tr) 
 
 1.Insertion Sort Aşamaları
 
